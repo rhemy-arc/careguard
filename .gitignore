@@ -1,8 +1,6 @@
 node_modules/
 dist/
-.env
 .env.prod
-.env.local
 .dev-seed
 *.log
 
@@ -19,7 +17,6 @@ data/**/*.jsonl
 Thumbs.db
 
 # Editor / IDE
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -53,7 +50,6 @@ tsconfig.tsbuildinfo
 
 # OS and editor artefacts
 Thumbs.db
-.vscode/*.log
 *.swp
 *.swo
 
@@ -61,3 +57,7 @@ Thumbs.db
 *.heapprofile
 *.cpuprofile
 *.heapsnapshot
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
