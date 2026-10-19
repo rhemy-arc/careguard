@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/agent-queue-metrics-registry",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/agent-queue-metrics-registry": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/agent-queue-metrics-registry",
+    "origin"
+  ]
+}
